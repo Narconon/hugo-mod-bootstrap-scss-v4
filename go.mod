@@ -1,4 +1,4 @@
-module github.com/narconon/hugo-mod-bootstrap-scss-v4
+module github.com/Narconon/hugo-mod-bootstrap-scss-v4
 
 go 1.13
 
